@@ -2,7 +2,7 @@
 //
 // Created by: Nathan Araujo
 // Created on: Oct 26 2022
-// This program determines the factorial of the users number
+// This program determines the factorial of the users number it then displays it
 
 #include <iostream>
 
